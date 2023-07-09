@@ -145,7 +145,7 @@ jump morning_scene
 ```
 
 
-## $inlude <<ins>*path*</ins>>
+## $inlude &lt;<ins>*path*</ins>&gt;
 指定したパスのファイルをインクルードします。
 
 ### 引数
