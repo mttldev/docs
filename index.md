@@ -12,6 +12,7 @@ Ren'Pyを使用して、ノベルゲームを製作しています！
   - （なし）
 
 関連ページ:
+  - [合算式排出率とは？](game/gacha)
   - [@mttldev](https://github.com/mttldev)
 
 # MTScript
