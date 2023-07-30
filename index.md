@@ -6,7 +6,7 @@
 <hr>
 
 # Novel Game
-Ren'Pyを使用して、ノベルゲームを製作しています！
+Ren'Pyを使用して、ノベルゲームを製作しています。
 
 関連レポジトリ:
   - （なし）
@@ -16,10 +16,10 @@ Ren'Pyを使用して、ノベルゲームを製作しています！
   - [@mttldev](https://github.com/mttldev)
 
 # MTScript
-自作言語としてトランスパイル型言語の`MTScript`を作成しています！
+自作言語としてトランスパイル型言語の`MTScript`を作成しています。
 
 関連レポジトリ:
-  - （なし）
+  - [mttldev/mtcompiler_ts](https://github.com/mttldev/mtcompiler_ts)
 
 関連ページ:
   - [リファレンスガイド](mtscript)
